@@ -1,0 +1,10 @@
+[user]
+	name = Craig Jilbert
+	email = cjilbert@gmail.com
+	signingkey = BCC19554CD84DEAE
+[commit]
+	gpgsign = true
+[credential]
+	helper = cache --timeout 86400
+[init]
+	defaultBranch = main
