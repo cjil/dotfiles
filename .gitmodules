@@ -1,0 +1,30 @@
+[submodule ".config/tmux/plugins/tpm"]
+	path = .config/tmux/plugins/tpm
+	url = https://github.com/tmux-plugins/tpm
+[submodule ".config/tmux/plugins/tmux-sensible"]
+	path = .config/tmux/plugins/tmux-sensible
+	url = https://github.com/tmux-plugins/tmux-sensible
+[submodule ".config/tmux/plugins/tmux-yank"]
+	path = .config/tmux/plugins/tmux-yank
+	url = https://github.com/tmux-plugins/tmux-yank
+[submodule ".config/tmux/plugins/tmux-resurrect"]
+	path = .config/tmux/plugins/tmux-resurrect
+	url = https://github.com/tmux-plugins/tmux-resurrect
+[submodule ".config/tmux/plugins/tmux-continuum"]
+	path = .config/tmux/plugins/tmux-continuum
+	url = https://github.com/tmux-plugins/tmux-continuum
+[submodule ".config/tmux/plugins/tmux-fzf"]
+	path = .config/tmux/plugins/tmux-fzf
+	url = https://github.com/tmux-plugins/tmux-fzf
+[submodule ".config/tmux/plugins/tmux-fzf-url"]
+	path = .config/tmux/plugins/tmux-fzf-url
+	url = https://github.com/tmux-plugins/tmux-fzf-url
+[submodule ".config/tmux/plugins/tmux-thumbs"]
+	path = .config/tmux/plugins/tmux-thumbs
+	url = https://github.com/tmux-plugins/tmux-thumbs
+[submodule ".config/tmux/plugins/tmux-which-key"]
+	path = .config/tmux/plugins/tmux-which-key
+	url = https://github.com/tmux-plugins/tmux-which-key
+[submodule ".config/tmux/plugins/tmux-floax"]
+	path = .config/tmux/plugins/tmux-floax
+	url = https://github.com/tmux-plugins/tmux-floax
