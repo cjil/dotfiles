@@ -28,3 +28,6 @@
 [submodule ".config/tmux/plugins/tmux-floax"]
 	path = .config/tmux/plugins/tmux-floax
 	url = git@github.com:omerxx/tmux-floax.git
+[submodule ".config/tmux/plugins/tmux"]
+	path = .config/tmux/plugins/tmux
+	url = git@github.com:catppuccin/tmux.git
