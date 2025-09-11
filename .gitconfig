@@ -1,10 +1,12 @@
 [user]
 	name = Craig Jilbert
 	email = cjilbert@gmail.com
-	signingkey = BCC19554CD84DEAE
+	signingkey = /home/cjil/.ssh/id_ed25519.pub
 [commit]
 	gpgsign = true
 [credential]
 	helper = cache --timeout 86400
 [init]
 	defaultBranch = main
+[gpg]
+	format = ssh
