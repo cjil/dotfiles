@@ -21,7 +21,7 @@
 	url = git@github.com:wfxr/tmux-fzf-url.git
 [submodule ".config/tmux/plugins/tmux-thumbs"]
 	path = .config/tmux/plugins/tmux-thumbs
-	url = https://github.com/tmux-plugins/tmux-thumbs
+	url = git@github.com:fcsonline/tmux-thumbs.git
 [submodule ".config/tmux/plugins/tmux-which-key"]
 	path = .config/tmux/plugins/tmux-which-key
 	url = https://github.com/tmux-plugins/tmux-which-key
