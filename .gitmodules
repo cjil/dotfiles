@@ -24,7 +24,7 @@
 	url = git@github.com:fcsonline/tmux-thumbs.git
 [submodule ".config/tmux/plugins/tmux-which-key"]
 	path = .config/tmux/plugins/tmux-which-key
-	url = https://github.com/tmux-plugins/tmux-which-key
+	url = git@github.com:alexwforsythe/tmux-which-key.git
 [submodule ".config/tmux/plugins/tmux-floax"]
 	path = .config/tmux/plugins/tmux-floax
 	url = git@github.com:omerxx/tmux-floax.git
