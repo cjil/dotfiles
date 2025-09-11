@@ -18,7 +18,7 @@
 	url = git@github.com:sainnhe/tmux-fzf.git
 [submodule ".config/tmux/plugins/tmux-fzf-url"]
 	path = .config/tmux/plugins/tmux-fzf-url
-	url = https://github.com/tmux-plugins/tmux-fzf-url
+	url = git@github.com:wfxr/tmux-fzf-url.git
 [submodule ".config/tmux/plugins/tmux-thumbs"]
 	path = .config/tmux/plugins/tmux-thumbs
 	url = https://github.com/tmux-plugins/tmux-thumbs
