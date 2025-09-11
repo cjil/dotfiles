@@ -27,4 +27,4 @@
 	url = https://github.com/tmux-plugins/tmux-which-key
 [submodule ".config/tmux/plugins/tmux-floax"]
 	path = .config/tmux/plugins/tmux-floax
-	url = https://github.com/tmux-plugins/tmux-floax
+	url = git@github.com:omerxx/tmux-floax.git
