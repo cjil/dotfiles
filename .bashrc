@@ -19,5 +19,5 @@ eval "$(starship init bash)"
 # Set environment variables from .env file, if it exists
 if [ -f ~/.minio ]; then
     source ~/.minio
-    mc alias set $MINIO_ALIAS $MINIO_ENDPOINT $MINIO_USER $MINIO_SECRET_KEY
+    alias minio-setup='mc alias set $MINIO_ALIAS $MINIO_ENDPOINT $MINIO_USER $MINIO_SECRET_KEY'
 fi
