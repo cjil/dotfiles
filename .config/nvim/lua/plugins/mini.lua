@@ -1,11 +1,11 @@
 return {
-	{ "echasnovski/mini.ai", version = false },
-	{ "echasnovski/mini.basics", version = false },
-	{ "echasnovski/mini.bracketed", version = false },
-	{ "echasnovski/mini.completion", version = false },
-	{ "echasnovski/mini.cursorword", version = false },
+	{ "nvim-mini/mini.ai", version = false },
+	{ "nvim-mini/mini.basics", version = false },
+	{ "nvim-mini/mini.bracketed", version = false },
+	{ "nvim-mini/mini.completion", version = false },
+	{ "nvim-mini/mini.cursorword", version = false },
 	{
-		"echasnovski/mini.files",
+		"nvim-mini/mini.files",
 		enabled = true,
 		keys = {
 			{
@@ -44,7 +44,7 @@ return {
 		},
 	},
 	{
-		"echasnovski/mini.hipatterns",
+		"nvim-mini/mini.hipatterns",
 		highlighters = {
 			-- Highlight standalone 'FIXME', 'HACK', 'TODO', 'NOTE'
 			fixme = { pattern = "%f[%w]()FIXME()%f[%W]", group = "MiniHipatternsFixme" },
@@ -53,12 +53,12 @@ return {
 			note = { pattern = "%f[%w]()NOTE()%f[%W]", group = "MiniHipatternsNote" },
 		},
 	},
-	{ "echasnovski/mini.icons", version = false },
-	{ "echasnovski/mini.map", version = false, enabled = false },
-	{ "echasnovski/mini.notify", version = false, enabled = false },
-	{ "echasnovski/mini.operators", version = false },
-	{ "echasnovski/mini.pairs", version = false },
-	{ "echasnovski/mini.snippets", version = false },
-	{ "echasnovski/mini.surround", version = false },
-	{ "echasnovski/mini.tabline", version = false },
+	{ "nvim-mini/mini.icons", version = false },
+	{ "nvim-mini/mini.map", version = false, enabled = false },
+	{ "nvim-mini/mini.notify", version = false, enabled = false },
+	{ "nvim-mini/mini.operators", version = false },
+	{ "nvim-mini/mini.pairs", version = false },
+	{ "nvim-mini/mini.snippets", version = false },
+	{ "nvim-mini/mini.surround", version = false },
+	{ "nvim-mini/mini.tabline", version = false },
 }
