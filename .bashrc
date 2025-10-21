@@ -10,8 +10,6 @@
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
 alias vim='nvim'
-alias ls='ls --color=auto'
-alias grep='grep --color=auto'
 alias stow_dotfiles='stow -d ~/.dotfiles -t ~ .'
 
 eval "$(starship init bash)"
